@@ -128,7 +128,6 @@ li,
 ol {
      margin: 0px;
      padding: 0px;
-     list-style: none;
 }
 
 p {
@@ -420,11 +419,10 @@ button {
 
 .long_text{
     width: 100%;
-    float: left;
     font-size: 16px;
     color: #363636;
     margin-left: 0px;
-    text-align: center;
+    text-align: left;
 }
 .price_text {
     width: 100%;
